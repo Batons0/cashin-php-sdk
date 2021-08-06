@@ -14,7 +14,7 @@ The official [Directa24][directa24] PHP client library.
 Via Composer
 
 ``` bash
-$ composer require directa24/cashin-php-sdk
+$ composer require batons0/cashin-php-sdk
 ```
 
 ## Usage
